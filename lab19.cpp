@@ -1,5 +1,6 @@
 // Please include header (lab21.h) here.
 
+
 int main(){
 	srand(time(0));
 	Unit hero,mons;
